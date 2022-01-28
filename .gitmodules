@@ -1,0 +1,12 @@
+[submodule "Week-1-FrontEnd-HTML-CSS-Javascript"]
+	path = Week-1-FrontEnd-HTML-CSS-Javascript
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-1-assignment-nidadinch
+[submodule "Week-2-FrontEnd-Vue"]
+	path = Week-2-FrontEnd-Vue
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-2-assignment-nidadinch
+[submodule "Week-3-TDD-UnitTests"]
+	path = Week-3-TDD-UnitTests
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-3-assignment-nidadinch
+[submodule "Week-4-TDD-Acceptance-Tests"]
+	path = Week-4-TDD-Acceptance-Tests
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-4-assignment-nidadinch

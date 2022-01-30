@@ -7,3 +7,6 @@
 [submodule "Week-3-TDD-UnitTests"]
 	path = Week-3-TDD-UnitTests
 	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-3-assignment-nidadinch
+[submodule "Week-4-TDD-Acceptance-Testing"]
+	path = Week-4-TDD-Acceptance-Testing
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-4-assignment-nidadinch

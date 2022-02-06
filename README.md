@@ -6,9 +6,11 @@ Project has 3 different braches with 3 different applications.
 
 #### Login Page
 
+![LoginPage](https://github.com/nidadinch/Modanisa-Bootcamp-Assignments/blob/37d08dfefb3501f3d4dd930cfd5f40301904accf/images/week-1-loginpage.png)
+
 #### Linkedin Post
 
-[https://github.com/nidadinch/Modanisa-Bootcamp-Assignments/blob/ceb3e3463c0194ff8fdabc296210ca46cea209ae/images/week-1-linkedinpost.png]
+![LinkedinPost](https://github.com/nidadinch/Modanisa-Bootcamp-Assignments/blob/ceb3e3463c0194ff8fdabc296210ca46cea209ae/images/week-1-linkedinpost.png)
 
 #### JS Practice
 
@@ -17,6 +19,8 @@ Get data from API and manipulate it using Axios
 ## [Week 2 : FrontEnd / Vue.js](https://github.com/152-Modanisa-FullStack-Bootcamp/week-2-assignment-nidadinch)
 
 An application similiar to Youtube that can user add a video to favorites using Vue, Axios, Vuex, Router. Application has 3 pages, main page, favorites & watch.
+
+![VideoSiteProject](https://github.com/nidadinch/Modanisa-Bootcamp-Assignments/blob/37d08dfefb3501f3d4dd930cfd5f40301904accf/images/week-2-youtube.png)
 
 ## [Week 3 : TDD / Unit Tests with Jest](https://github.com/152-Modanisa-FullStack-Bootcamp/week-3-assignment-nidadinch)
 

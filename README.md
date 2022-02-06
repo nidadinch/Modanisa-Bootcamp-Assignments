@@ -24,7 +24,9 @@ An application similiar to Youtube that can user add a video to favorites using 
 
 ## [Week 3 : TDD / Unit Tests with Jest](https://github.com/152-Modanisa-FullStack-Bootcamp/week-3-assignment-nidadinch)
 
-Unit tests using Jest
+Unit tests using Jest for simple daily corona cases in Turkey app.
+
+![CoronaCasesProject](https://github.com/nidadinch/Modanisa-Bootcamp-Assignments/blob/6fe4eb474aa3ee3b6f20c6bb2c2b8681f47c7130/images/week-3-dailycoronacases.png)
 
 ## [Week 4 : TDD / Acceptance Tests](https://github.com/152-Modanisa-FullStack-Bootcamp/week-4-assignment-nidadinch)
 

@@ -10,3 +10,6 @@
 [submodule "Week-4-TDD-Acceptance-Testing"]
 	path = Week-4-TDD-Acceptance-Testing
 	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-4-assignment-nidadinch
+[submodule "Week-5-BackEnd-Golang-UnitTests"]
+	path = Week-5-BackEnd-Golang-UnitTests
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-5-assignment-nidadinch

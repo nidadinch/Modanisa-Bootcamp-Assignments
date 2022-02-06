@@ -8,6 +8,8 @@ Project has 3 different braches with 3 different applications.
 
 #### Linkedin Post
 
+[https://github.com/nidadinch/Modanisa-Bootcamp-Assignments/blob/ceb3e3463c0194ff8fdabc296210ca46cea209ae/images/week-1-linkedinpost.png]
+
 #### JS Practice
 
 Get data from API and manipulate it using Axios

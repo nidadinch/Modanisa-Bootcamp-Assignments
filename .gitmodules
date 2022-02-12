@@ -16,3 +16,6 @@
 [submodule "Week-5-BackEnd-Golang-N-Tier"]
 	path = Week-5-BackEnd-Golang-N-Tier
 	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-6-assignment-nidadinch
+[submodule "Week-6-BackEnd-Golang-N-Tier"]
+	path = Week-6-BackEnd-Golang-N-Tier
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-6-assignment-nidadinch
